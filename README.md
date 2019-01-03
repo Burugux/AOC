@@ -1,6 +1,6 @@
 # advent-of-code
 
-My solutions for [advent of code 2018](https://adventofcode.com/2018).
+My solutions for [advent of code](https://adventofcode.com/).
 
 If you have any questions about the code feel free to send issues,
 or ask me directly on twitter at [@burugu_](https://twitter.com/burugu_).
