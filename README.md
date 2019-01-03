@@ -1,4 +1,4 @@
-# advent-of-code-2018
+# advent-of-code
 
 My solutions for [advent of code 2018](https://adventofcode.com/2018).
 
